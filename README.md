@@ -13,7 +13,7 @@ Little Google search on manipulating images with python brought me to PIL and Op
 I already used a bit OpenCV with C++ so I decided to try this. Nice! But too heavy.
 Then a looked at PIL. Good surprise! it's powerful and easy to use. Perfect.
 
-After some searches on Google and PIL Documentation, and the great idea of removing noise that was black pixels while the text was gray. Pass it to tesseract and Boom! challenge solved.
+After some searches on Google and PIL Documentation, and the great idea of removing noise that was black pixels while the text was gray. I wrote the script, pass the result image to tesseract and Boom! challenge solved.
 
 The day before, I never thought I'd be able to do that.
 
